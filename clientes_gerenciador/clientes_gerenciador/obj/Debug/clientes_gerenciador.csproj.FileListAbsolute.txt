@@ -1,0 +1,8 @@
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\bin\Debug\clientes_gerenciador.exe.config
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\bin\Debug\clientes_gerenciador.exe
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\bin\Debug\clientes_gerenciador.pdb
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\obj\Debug\clientes_gerenciador.csproj.AssemblyReference.cache
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\obj\Debug\clientes_gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\obj\Debug\clientes_gerenciador.exe
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\obj\Debug\clientes_gerenciador.pdb
+C:\Users\PEREIRA\Desktop\AreaTrabalho01\anaCsharp\clientes_gerenciador\clientes_gerenciador\obj\Debug\clientes_gerenciador.csproj.SuggestedBindingRedirects.cache
